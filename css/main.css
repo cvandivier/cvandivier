@@ -23,6 +23,11 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+link {
+    text-decoration: underline;
+    font-size: 1.5em;
+    color: black;
+}   
 p {
     font-size: 1.5em;
     line-height: 1.4em;
